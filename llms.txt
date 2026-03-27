@@ -1,0 +1,16 @@
+# bankruptcymalpractice.org
+
+> Free guide to bankruptcy attorney malpractice, bar complaints, fee disgorgement, and finding replacement counsel.
+
+bankruptcymalpractice.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
+
+## Pages
+
+- https://bankruptcymalpractice.org/ -- Overview of bankruptcy attorney malpractice, common forms, statute of limitations, bar complaints
+- https://bankruptcymalpractice.org/bar-complaints.html -- State-by-state guide to filing bar complaints
+- https://bankruptcymalpractice.org/fee-disgorgement.html -- Fee disgorgement under Section 329
+- https://bankruptcymalpractice.org/finding-help.html -- Finding replacement counsel, legal aid, pro bono
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.
