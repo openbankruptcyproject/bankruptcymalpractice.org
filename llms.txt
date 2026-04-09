@@ -1,16 +1,36 @@
-# bankruptcymalpractice.org
+# Was Your Bankruptcy Attorney Negligent? Free Malpractice Guide (2026)
+> Was your bankruptcy attorney negligent? Learn the signs of bankruptcy malpractice, how to file a complaint, and your legal options. Updated ...
 
-> Free guide to bankruptcy attorney malpractice, bar complaints, fee disgorgement, and finding replacement counsel.
+## About
+bankruptcymalpractice.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-bankruptcymalpractice.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
-
-## Pages
-
-- https://bankruptcymalpractice.org/ -- Overview of bankruptcy attorney malpractice, common forms, statute of limitations, bar complaints
-- https://bankruptcymalpractice.org/bar-complaints.html -- State-by-state guide to filing bar complaints
-- https://bankruptcymalpractice.org/fee-disgorgement.html -- Fee disgorgement under Section 329
-- https://bankruptcymalpractice.org/finding-help.html -- Finding replacement counsel, legal aid, pro bono
+## Key Pages
+- Filing a Bar Complaint Against Your Bankruptcy Attorney -- Malpractice: https://bankruptcymalpractice.org/bar-complaints.html
+- Suing Your Bankruptcy Attorney for Malpractice -- What Damages Can You Recover?: https://bankruptcymalpractice.org/damages.html
+- Fee Disgorgement in Bankruptcy -- Section 329 -- Malpractice: https://bankruptcymalpractice.org/fee-disgorgement.html
+- Bankruptcy Attorney Fee Disputes -- Section 329 and Rule 2017 -- Malpractice: https://bankruptcymalpractice.org/fee-disputes.html
+- Finding a Bankruptcy Malpractice Attorney: https://bankruptcymalpractice.org/finding-help.html
+- Attorney Recommended the Wrong Chapter -- Your Options -- Malpractice: https://bankruptcymalpractice.org/inadequate-advice.html
+- Was Your Bankruptcy Attorney Negligent? Free Malpractice Guide (2026): https://bankruptcymalpractice.org/
+- Attorney Missed a Deadline and Your Bankruptcy Was Dismissed -- Malpractice: https://bankruptcymalpractice.org/missed-deadlines.html
+- How to Protect Yourself When Hiring a Bankruptcy Attorney -- Malpractice: https://bankruptcymalpractice.org/protect-yourself.html
+- Warning Signs of Bankruptcy Attorney Malpractice: https://bankruptcymalpractice.org/signs.html
+- Bankruptcy Attorney Malpractice -- Central District of California: https://bankruptcymalpractice.org/districts/central-district-of-california.html
+- Bankruptcy Attorney Malpractice -- Eastern District of New York: https://bankruptcymalpractice.org/districts/eastern-district-of-new-york.html
+- Bankruptcy Attorney Malpractice by District: https://bankruptcymalpractice.org/districts/
+- Bankruptcy Attorney Malpractice -- Middle District of Florida: https://bankruptcymalpractice.org/districts/middle-district-of-florida.html
+- Bankruptcy Attorney Malpractice -- Northern District of Georgia: https://bankruptcymalpractice.org/districts/northern-district-of-georgia.html
+- Bankruptcy Attorney Malpractice -- Northern District of Illinois: https://bankruptcymalpractice.org/districts/northern-district-of-illinois.html
+- Bankruptcy Attorney Malpractice -- Northern District of Ohio: https://bankruptcymalpractice.org/districts/northern-district-of-ohio.html
+- Bankruptcy Attorney Malpractice -- Southern District of Florida: https://bankruptcymalpractice.org/districts/southern-district-of-florida.html
+- Bankruptcy Attorney Malpractice -- Southern District of New York: https://bankruptcymalpractice.org/districts/southern-district-of-new-york.html
+- Bankruptcy Attorney Malpractice -- Western District of Missouri: https://bankruptcymalpractice.org/districts/western-district-of-missouri.html
+- Bankruptcy Attorney Malpractice -- Western District of Tennessee: https://bankruptcymalpractice.org/districts/western-district-of-tennessee.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
