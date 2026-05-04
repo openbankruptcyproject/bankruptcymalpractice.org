@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Communications Log Builder | Attorney-Client Communication History Tool</title>
+<meta content="Free generator for a clean, formatted communications log documenting attorney-client correspondence history. Tracks inbound/outbound, channel, subject, and response status. Self-contained, no signup, instant preview, copy or print to PDF." name="description"/>
+<meta content="attorney communication log, communications log generator, attorney non-responsiveness exhibit, client communication history, attorney-client correspondence log, bankruptcy attorney communications" name="keywords"/>
+<link href="https://bankruptcymalpractice.org/communication-log-builder.html" rel="canonical"/>
+<link href="https://bankruptcymalpractice.org/communication-log-builder.html" hreflang="en" rel="alternate"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="#0d1117" name="theme-color"/>
+<meta content="2026-05-03" name="last-modified"/>
+<!-- Open Graph -->
+<meta content="Communications Log Builder | Attorney-Client Communication History Tool" property="og:title"/>
+<meta content="Free generator for a clean, formatted communications log documenting attorney-client correspondence history. A sister tool to the representation-timeline builder." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://bankruptcymalpractice.org/communication-log-builder.html" property="og:url"/>
+<meta content="bankruptcymalpractice.org" property="og:site_name"/>
+<meta content="https://bankruptcymalpractice.org/og-image.svg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Communications Log Builder" name="twitter:title"/>
+<meta content="Free template tool for an attorney-client communications log exhibit." name="twitter:description"/>
+<meta content="https://bankruptcymalpractice.org/og-image.svg" name="twitter:image"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Communications Log Builder",
+  "description": "Free generator for a clean, formatted communications log documenting attorney-client correspondence history (inbound/outbound, channel, subject, response status).",
+  "url": "https://bankruptcymalpractice.org/communication-log-builder.html",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Communications Log Builder",
+  "description": "Free template generator for an attorney-client communications log exhibit. Tracks date, direction, channel, subject, and response status. Sister tool to the representation-timeline builder.",
+  "author": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "datePublished": "2026-05-03",
+  "dateModified": "2026-05-03",
+  "mainEntityOfPage": "https://bankruptcymalpractice.org/communication-log-builder.html"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bankruptcymalpractice.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Accountability Roadmap",
+      "item": "https://bankruptcymalpractice.org/accountability-roadmap.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Communications Log Builder",
+      "item": "https://bankruptcymalpractice.org/communication-log-builder.html"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NonprofitOrganization",
+  "name": "Open Bankruptcy Project",
+  "alternateName": "OBP",
+  "url": "https://openbankruptcyproject.org",
+  "email": "info@openbankruptcyproject.org",
+  "taxID": "41-5159631",
+  "nonprofitStatus": "Nonprofit501c3",
+  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1000 W 100th St",
+    "addressLocality": "Kansas City",
+    "addressRegion": "MO",
+    "postalCode": "64114",
+    "addressCountry": "US"
+  }
+}
+</script>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --yellow: #e3a835;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 760px; margin: 0 auto; }
+  .breadcrumb-nav { font-size: 0.85rem; color: #8b949e; padding: 0.5rem 1.5rem; max-width: 1200px; margin: 0 auto; }
+  .breadcrumb-nav a { color: #58a6ff; text-decoration: none; }
+  .breadcrumb-nav a:hover { text-decoration: underline; }
+  .breadcrumb-nav .separator { margin: 0 0.5rem; color: #484f58; }
+  main { max-width: 1200px; margin: 0 auto; padding: 1.5rem 1.5rem 2rem; }
+  .disclaimer-banner { background: #1a1612; border-left: 3px solid var(--yellow); padding: 0.85rem 1.1rem; border-radius: 0 6px 6px 0; margin-bottom: 1.25rem; font-size: 0.9rem; color: var(--text); }
+  .disclaimer-banner strong { color: var(--yellow); }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; align-items: start; }
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1.5rem; }
+  .panel h2 { color: #f0f6fc; font-size: 1.15rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .panel h3 { color: #f0f6fc; font-size: 0.95rem; margin: 1.25rem 0 0.5rem; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); font-weight: 600; }
+  .field { margin-bottom: 0.85rem; }
+  .field label { display: block; color: #f0f6fc; font-weight: 600; font-size: 0.85rem; margin-bottom: 0.3rem; }
+  .field .hint { color: var(--text-muted); font-size: 0.78rem; margin-top: 0.2rem; }
+  .field input, .field select, .field textarea { width: 100%; padding: 0.55rem 0.7rem; background: #0d1117; border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-size: 0.92rem; font-family: inherit; }
+  .field input:focus, .field select:focus, .field textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
+  .field textarea { resize: vertical; min-height: 5rem; line-height: 1.5; }
+  .field .invalid { border-color: var(--red); }
+  .row-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+  .radio-group { display: flex; gap: 1rem; flex-wrap: wrap; padding: 0.35rem 0; }
+  .radio-group label { display: flex; align-items: center; gap: 0.4rem; font-weight: 500; cursor: pointer; }
+  .radio-group input[type="radio"] { width: auto; margin: 0; }
+  .toggle-row { display: flex; align-items: center; gap: 0.5rem; padding: 0.3rem 0; }
+  .toggle-row input[type="checkbox"] { width: auto; margin: 0; }
+  .toggle-row label { font-weight: 500; cursor: pointer; margin: 0; }
+  .comm-row { background: #0d1117; border: 1px solid var(--border); border-radius: 6px; padding: 0.85rem; margin-bottom: 0.65rem; }
+  .comm-row-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
+  .comm-row-header .row-label { color: var(--accent); font-weight: 600; font-size: 0.85rem; }
+  .comm-row-header .remove-btn { background: #5a1a1a; color: #f85149; border: 1px solid #6e2424; padding: 0.25rem 0.6rem; font-size: 0.78rem; border-radius: 4px; cursor: pointer; font-family: inherit; }
+  .comm-row-header .remove-btn:hover { background: #6e2424; }
+  .comm-row .row-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.5rem; margin-bottom: 0.5rem; }
+  .comm-row .row-3 input, .comm-row .row-3 select { font-size: 0.85rem; padding: 0.4rem 0.5rem; }
+  .comm-row .row-2-tight { display: grid; grid-template-columns: 2fr 1fr; gap: 0.5rem; margin-bottom: 0.5rem; }
+  .comm-row .row-2-tight input, .comm-row .row-2-tight select { font-size: 0.85rem; padding: 0.4rem 0.5rem; }
+  .comm-row textarea { font-size: 0.85rem; padding: 0.4rem 0.5rem; min-height: 3rem; }
+  .comm-row .field-mini { margin-bottom: 0.4rem; }
+  .comm-row .field-mini label { font-size: 0.75rem; margin-bottom: 0.15rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; }
+  .add-row-btn { background: #1f3a5f; color: var(--accent); border: 1px solid #2a4a73; padding: 0.55rem 1rem; font-size: 0.88rem; border-radius: 6px; cursor: pointer; font-family: inherit; font-weight: 600; width: 100%; margin-top: 0.5rem; }
+  .add-row-btn:hover { background: #2a4a73; }
+  .preview-pane { background: #ffffff; color: #1a1a1a; padding: 2.25rem 2rem; border-radius: 6px; font-family: 'Times New Roman', Georgia, serif; font-size: 0.92rem; line-height: 1.55; min-height: 30rem; max-height: 75vh; overflow-y: auto; word-wrap: break-word; box-shadow: 0 1px 3px rgba(0,0,0,0.4); }
+  .preview-pane h3.log-title { font-family: 'Times New Roman', Georgia, serif; font-size: 1.3rem; text-align: center; margin-bottom: 0.4rem; letter-spacing: 0.5px; }
+  .preview-pane .header-meta { text-align: center; font-size: 0.85rem; color: #444; margin-bottom: 1rem; padding-bottom: 0.6rem; border-bottom: 1px solid #ccc; }
+  .preview-pane .header-meta div { margin-bottom: 0.15rem; }
+  .preview-pane .stats-block { background: #f4f4f0; border: 1px solid #ddd; border-radius: 4px; padding: 0.7rem 0.9rem; margin-bottom: 1rem; font-size: 0.85rem; }
+  .preview-pane .stats-block h4 { font-size: 0.95rem; margin-bottom: 0.4rem; }
+  .preview-pane .stats-block .stat-line { margin-bottom: 0.2rem; }
+  .preview-pane .stats-block .stat-line strong { display: inline-block; min-width: 14rem; }
+  .preview-pane table.log-table { width: 100%; border-collapse: collapse; font-size: 0.78rem; margin-bottom: 1rem; }
+  .preview-pane table.log-table th, .preview-pane table.log-table td { border: 1px solid #999; padding: 0.35rem 0.45rem; vertical-align: top; text-align: left; }
+  .preview-pane table.log-table th { background: #e8e8e0; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.3px; }
+  .preview-pane table.log-table td.col-num { width: 2.5rem; text-align: center; }
+  .preview-pane table.log-table td.col-date { width: 5rem; white-space: nowrap; }
+  .preview-pane table.log-table td.col-dir { width: 5.5rem; }
+  .preview-pane table.log-table td.col-chan { width: 4.5rem; }
+  .preview-pane table.log-table td.col-resp { width: 4.5rem; text-align: center; }
+  .preview-pane table.log-table td.col-days { width: 3rem; text-align: center; }
+  .preview-pane .footer-line { font-size: 0.75rem; color: #555; text-align: center; padding-top: 0.6rem; border-top: 1px solid #ccc; margin-top: 0.5rem; }
+  .preview-pane .empty-state { text-align: center; color: #888; padding: 2rem 0; font-style: italic; }
+  .actions { display: flex; gap: 0.6rem; flex-wrap: wrap; margin-top: 1rem; }
+  .btn { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.55rem 1.1rem; border: none; border-radius: 6px; font-size: 0.92rem; font-weight: 600; cursor: pointer; font-family: inherit; }
+  .btn-primary { background: #238636; color: #fff; }
+  .btn-primary:hover { background: #2ea043; }
+  .btn-secondary { background: var(--border); color: var(--text); }
+  .btn-secondary:hover { background: #484f58; }
+  .copy-status { color: var(--green); font-size: 0.85rem; align-self: center; display: none; }
+  .copy-status.show { display: inline; }
+  .stage-badge { display: inline-block; background: #1f3a5f; color: var(--accent); padding: 0.25rem 0.7rem; border-radius: 999px; font-size: 0.78rem; font-weight: 600; margin-bottom: 0.5rem; }
+  .cross-links { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem 1.5rem; margin-top: 1.5rem; }
+  .cross-links h3 { color: #f0f6fc; font-size: 1rem; margin-bottom: 0.6rem; }
+  .cross-links ul { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.5rem; }
+  .cross-links li { font-size: 0.88rem; }
+  .cross-links li .stage { color: var(--text-muted); font-size: 0.78rem; display: block; }
+  .educational-sidebar { background: #11221a; border: 1px solid #1f4d35; border-left: 3px solid var(--green); border-radius: 6px; padding: 1rem 1.25rem; margin-top: 1.25rem; font-size: 0.88rem; color: var(--text); }
+  .educational-sidebar h4 { color: var(--green); font-size: 0.95rem; margin-bottom: 0.5rem; }
+  .footer-note { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1rem 1.25rem; margin-top: 1.25rem; font-size: 0.85rem; color: var(--text-muted); }
+  .footer-note strong { color: var(--yellow); }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 900px) {
+    .grid { grid-template-columns: 1fr; }
+    .preview-pane { min-height: 20rem; }
+  }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1rem; }
+    .panel { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .row-2 { grid-template-columns: 1fr; }
+    .comm-row .row-3 { grid-template-columns: 1fr; }
+    .comm-row .row-2-tight { grid-template-columns: 1fr; }
+    .preview-pane table.log-table { font-size: 0.7rem; }
+    .preview-pane table.log-table th, .preview-pane table.log-table td { padding: 0.25rem 0.3rem; }
+  }
+  /* Print stylesheet — only the log prints */
+  @media print {
+    body { background: #fff !important; color: #000 !important; }
+    nav, header, .breadcrumb-nav, .panel.form-panel, .actions, .cross-links, .footer-note, .disclaimer-banner, .educational-sidebar, .network-footer, .stage-badge, .panel h2 { display: none !important; }
+    main { max-width: 100% !important; padding: 0 !important; margin: 0 !important; }
+    .grid { display: block !important; }
+    .panel.preview-panel { background: #fff !important; border: none !important; padding: 0 !important; }
+    .preview-pane { background: #fff !important; color: #000 !important; box-shadow: none !important; max-height: none !important; min-height: 0 !important; padding: 0 !important; font-size: 10pt; line-height: 1.35; overflow: visible !important; }
+    .preview-pane table.log-table { font-size: 9pt; }
+    .preview-pane .stats-block { background: #f4f4f0 !important; }
+    @page { margin: 0.6in; }
+  }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" role="navigation">
+<a class="site-name" href="/">bankruptcymalpractice.org</a>
+<button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
+<div class="nav-links">
+<a href="/index.html">Home</a>
+<a href="/accountability-roadmap.html">Accountability Roadmap</a>
+<a href="/representation-timeline-builder.html">Timeline Builder</a>
+<a href="/demand-letter-generator.html">Demand Letter</a>
+<a href="/bbb-complaint-generator.html">BBB Complaint</a>
+<a href="/bar-complaint-generator.html">Bar Complaint</a>
+</div>
+</nav>
+<header>
+<span class="stage-badge">Evidence Tool — Communications Log</span>
+<h1>Communications <span class="accent">Log</span> Builder</h1>
+<p class="subtitle">Generate a clean, formatted communications log documenting your attorney-client correspondence history. Add each contact — date, direction, channel, subject, response — and the tool produces a tabular exhibit ready to print or save as PDF. Self-contained, no signup, nothing leaves your browser.</p>
+</header>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav">
+<a href="/">Home</a><span class="separator">›</span><a href="/accountability-roadmap.html">Accountability Roadmap</a><span class="separator">›</span><span>Communications Log Builder</span>
+</nav>
+<main id="main-content">
+<div class="disclaimer-banner" role="note">
+<strong>Template tool, not legal advice.</strong> This is a free document-generation utility provided by the Open Bankruptcy Project, a 501(c)(3) nonprofit (EIN 41-5159631). The tool reproduces only the factual data you enter. The accuracy, completeness, and use of any log generated are solely the user's responsibility. No attorney-client relationship is created. Consult a licensed attorney for advice specific to your situation.
+</div>
+
+<div class="grid">
+  <!-- LEFT: FORM -->
+  <section aria-label="Communications log inputs" class="panel form-panel">
+    <h2>Log Inputs</h2>
+
+    <h3>Sender (You)</h3>
+    <div class="field">
+      <label for="sender-name">Your name *</label>
+      <input id="sender-name" type="text" placeholder="e.g., Jane Q. Public" autocomplete="off"/>
+    </div>
+    <div class="field">
+      <label>Your role *</label>
+      <div class="radio-group">
+        <label><input type="radio" name="sender-role-type" value="individual" checked/> Individual</label>
+        <label><input type="radio" name="sender-role-type" value="entity"/> Corporate principal</label>
+      </div>
+    </div>
+    <div class="field" id="entity-name-field" style="display:none;">
+      <label for="entity-name">Entity name</label>
+      <input id="entity-name" type="text" placeholder="e.g., Acme Services, LLC" autocomplete="off"/>
+      <p class="hint">Required when "Corporate principal" is selected. The log header will read "principal of [Entity]".</p>
+    </div>
+
+    <h3>Matter</h3>
+    <div class="field">
+      <label for="matter-caption">Matter / case caption</label>
+      <input id="matter-caption" type="text" placeholder="e.g., In re Acme Services, LLC, Case No. 26-12345" autocomplete="off"/>
+    </div>
+
+    <h3>Attorney</h3>
+    <div class="field">
+      <label for="attorney-name">Attorney name *</label>
+      <input id="attorney-name" type="text" placeholder="Attorney's full name" autocomplete="off"/>
+    </div>
+    <div class="field">
+      <label for="attorney-firm">Attorney firm *</label>
+      <input id="attorney-firm" type="text" placeholder="e.g., Smith &amp; Jones LLP" autocomplete="off"/>
+    </div>
+
+    <h3>Log Period</h3>
+    <div class="row-2">
+      <div class="field">
+        <label for="period-start">Period start *</label>
+        <input id="period-start" type="date"/>
+      </div>
+      <div class="field">
+        <label for="period-end">Period end *</label>
+        <input id="period-end" type="date"/>
+      </div>
+    </div>
+
+    <h3>Communications</h3>
+    <div id="comm-rows-container"></div>
+    <button class="add-row-btn" type="button" onclick="addCommRow()">+ Add communication row</button>
+
+    <h3>Summary Statistics</h3>
+    <div class="toggle-row">
+      <input id="stat-total" type="checkbox" checked/>
+      <label for="stat-total">Show total communications count</label>
+    </div>
+    <div class="toggle-row">
+      <input id="stat-direction" type="checkbox" checked/>
+      <label for="stat-direction">Show inbound vs outbound breakdown</label>
+    </div>
+    <div class="toggle-row">
+      <input id="stat-avg-days" type="checkbox" checked/>
+      <label for="stat-avg-days">Show average days to response</label>
+    </div>
+    <div class="toggle-row">
+      <input id="stat-unanswered" type="checkbox" checked/>
+      <label for="stat-unanswered">Show count of unanswered outbound communications</label>
+    </div>
+
+    <div class="actions">
+      <button class="btn btn-secondary" type="button" onclick="resetForm()">Reset to defaults</button>
+    </div>
+  </section>
+
+  <!-- RIGHT: PREVIEW -->
+  <section aria-label="Communications log preview" class="panel preview-panel">
+    <h2>Live Preview</h2>
+    <div class="disclaimer-banner" role="note" style="margin-bottom: 1rem;">
+      <strong>Reminder:</strong> This is a template. Verify every entry before using as an exhibit. The Open Bankruptcy Project does not represent you and does not certify any output.
+    </div>
+    <div id="preview" class="preview-pane" aria-live="polite">Loading…</div>
+    <div class="actions">
+      <button class="btn btn-primary" type="button" onclick="copyLog()">Copy to clipboard</button>
+      <button class="btn btn-primary" type="button" onclick="window.print()">Save as PDF (Print)</button>
+      <span id="copy-status" class="copy-status">Copied!</span>
+    </div>
+    <div class="educational-sidebar" role="note">
+      <h4>Why a contemporaneous log matters</h4>
+      <p>Communication logs are persuasive when courts evaluate claims of attorney non-responsiveness. Build them as you go, not after the fact. A log assembled in real time — with dates, channels, and response intervals recorded as events occur — carries far more evidentiary weight than a reconstruction prepared once a dispute has crystallized.</p>
+    </div>
+  </section>
+</div>
+
+<div class="cross-links" aria-label="Related tools and stages">
+  <h3>Where this fits in the broader methodology</h3>
+  <ul>
+    <li><a href="/accountability-roadmap.html">Multi-surface accountability roadmap</a><span class="stage">Framework — five-stage sequence</span></li>
+    <li><a href="/representation-timeline-builder.html">Representation timeline builder</a><span class="stage">Sister tool — full-matter timeline</span></li>
+    <li><a href="/demand-letter-generator.html">Client-file demand letter generator</a><span class="stage">Stage 2 — formal written demand</span></li>
+    <li><a href="/bbb-complaint-generator.html">BBB consumer-protection complaint</a><span class="stage">Stage 4 — if demand is ignored</span></li>
+    <li><a href="/bar-complaint-generator.html">State bar disciplinary referral</a><span class="stage">Stage 5 — final-track guidance</span></li>
+  </ul>
+</div>
+
+<div class="footer-note">
+  <strong>One more reminder:</strong> Template tool, not legal advice. The Open Bankruptcy Project is a 501(c)(3) nonprofit (EIN 41-5159631) providing free informational tools. Consult a licensed attorney before relying on any generated document as an exhibit. The accuracy and content of any log generated by this tool are solely the user's responsibility.
+</div>
+</main>
+
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by <a href="https://openbankruptcyproject.org/donate.html">donations</a>.</p>
+<p><strong>Part of the Open Bankruptcy Project</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631)</p>
+<p>Real information, no strings.</p>
+<div class="links">
+<a href="/">bankruptcymalpractice.org</a>
+<a href="/accountability-roadmap.html">Accountability Roadmap</a>
+<a href="/representation-timeline-builder.html">Timeline Builder</a>
+<a href="/demand-letter-generator.html">Demand Letter</a>
+<a href="/bbb-complaint-generator.html">BBB Complaint</a>
+<a href="/bar-complaint-generator.html">Bar Complaint</a>
+<a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a>
+</div>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+
+<script>
+(function () {
+  'use strict';
+
+  // ----- Constants -----
+  var DIRECTIONS = [
+    { value: 'inbound',  label: 'Inbound from attorney' },
+    { value: 'outbound', label: 'Outbound to attorney' },
+    { value: 'internal', label: 'Internal — copy or CC only' }
+  ];
+  var CHANNELS = [
+    { value: 'email',     label: 'Email' },
+    { value: 'phone',     label: 'Phone' },
+    { value: 'voicemail', label: 'Voicemail' },
+    { value: 'text',      label: 'Text' },
+    { value: 'letter',    label: 'Letter' },
+    { value: 'portal',    label: 'Portal' },
+    { value: 'in-person', label: 'In-person' }
+  ];
+  var RESPONSES = [
+    { value: 'yes',     label: 'Yes' },
+    { value: 'no',      label: 'No' },
+    { value: 'na',      label: 'N/A' },
+    { value: 'pending', label: 'Pending' }
+  ];
+
+  var DESC_MAX = 300;
+  var rowCounter = 0;
+
+  // ----- Helpers -----
+  function $(id) { return document.getElementById(id); }
+
+  function escapeHTML(s) {
+    if (s === undefined || s === null) return '';
+    return String(s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function formatDateLong(d) {
+    if (!d || isNaN(d.getTime())) return '';
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+  }
+
+  function formatDateShort(iso) {
+    if (!iso) return '';
+    var parts = iso.split('-');
+    if (parts.length !== 3) return iso;
+    var y = parts[0].slice(2);
+    return parts[1] + '/' + parts[2] + '/' + y;
+  }
+
+  function todayLong() { return formatDateLong(new Date()); }
+
+  function parseDateInput(val) {
+    if (!val) return null;
+    var d = new Date(val + 'T12:00:00');
+    return isNaN(d.getTime()) ? null : d;
+  }
+
+  function dirLabel(v) {
+    for (var i = 0; i < DIRECTIONS.length; i++) if (DIRECTIONS[i].value === v) return DIRECTIONS[i].label;
+    return v || '';
+  }
+  function chanLabel(v) {
+    for (var i = 0; i < CHANNELS.length; i++) if (CHANNELS[i].value === v) return CHANNELS[i].label;
+    return v || '';
+  }
+  function respLabel(v) {
+    for (var i = 0; i < RESPONSES.length; i++) if (RESPONSES[i].value === v) return RESPONSES[i].label;
+    return v || '';
+  }
+
+  // ----- Row UI -----
+  function buildSelectOptions(options, selected) {
+    var html = '<option value="">—</option>';
+    options.forEach(function (o) {
+      var sel = (o.value === selected) ? ' selected' : '';
+      html += '<option value="' + escapeHTML(o.value) + '"' + sel + '>' + escapeHTML(o.label) + '</option>';
+    });
+    return html;
+  }
+
+  function addCommRow(prefill) {
+    rowCounter += 1;
+    var rid = 'row-' + rowCounter;
+    var container = $('comm-rows-container');
+    var div = document.createElement('div');
+    div.className = 'comm-row';
+    div.id = rid;
+    div.dataset.rid = rid;
+
+    var data = prefill || {};
+
+    div.innerHTML = (
+      '<div class="comm-row-header">' +
+        '<span class="row-label">Communication</span>' +
+        '<button type="button" class="remove-btn" onclick="removeCommRow(\'' + rid + '\')">Remove</button>' +
+      '</div>' +
+      '<div class="row-3">' +
+        '<div class="field-mini"><label>Date</label><input type="date" data-k="date" value="' + escapeHTML(data.date || '') + '"/></div>' +
+        '<div class="field-mini"><label>Direction</label><select data-k="direction">' + buildSelectOptions(DIRECTIONS, data.direction || '') + '</select></div>' +
+        '<div class="field-mini"><label>Channel</label><select data-k="channel">' + buildSelectOptions(CHANNELS, data.channel || '') + '</select></div>' +
+      '</div>' +
+      '<div class="field-mini"><label>Subject line / topic</label><input type="text" data-k="subject" value="' + escapeHTML(data.subject || '') + '" placeholder="e.g., Plan modification draft"/></div>' +
+      '<div class="field-mini"><label>Brief description (max ' + DESC_MAX + ' chars)</label><textarea data-k="description" maxlength="' + DESC_MAX + '" placeholder="Factual summary only — no characterization">' + escapeHTML(data.description || '') + '</textarea></div>' +
+      '<div class="row-2-tight">' +
+        '<div class="field-mini"><label>Response received?</label><select data-k="response">' + buildSelectOptions(RESPONSES, data.response || '') + '</select></div>' +
+        '<div class="field-mini"><label>Days to response</label><input type="number" min="0" step="1" data-k="daysToResponse" value="' + escapeHTML(data.daysToResponse || '') + '"/></div>' +
+      '</div>'
+    );
+
+    container.appendChild(div);
+
+    // Wire events
+    var inputs = div.querySelectorAll('input, select, textarea');
+    inputs.forEach(function (el) {
+      var ev = (el.tagName === 'SELECT' || el.type === 'date' || el.type === 'number') ? 'change' : 'input';
+      el.addEventListener(ev, update);
+    });
+
+    renumberRows();
+    update();
+  }
+  window.addCommRow = addCommRow;
+
+  function removeCommRow(rid) {
+    var el = document.getElementById(rid);
+    if (el) el.parentNode.removeChild(el);
+    renumberRows();
+    update();
+  }
+  window.removeCommRow = removeCommRow;
+
+  function renumberRows() {
+    var rows = document.querySelectorAll('#comm-rows-container .comm-row');
+    rows.forEach(function (r, i) {
+      var label = r.querySelector('.row-label');
+      if (label) label.textContent = 'Communication #' + (i + 1);
+    });
+  }
+
+  // ----- Read rows into model -----
+  function readRows() {
+    var rows = document.querySelectorAll('#comm-rows-container .comm-row');
+    var out = [];
+    rows.forEach(function (r) {
+      var entry = {};
+      var inputs = r.querySelectorAll('[data-k]');
+      inputs.forEach(function (el) {
+        entry[el.dataset.k] = (el.value || '').trim();
+      });
+      out.push(entry);
+    });
+    // Sort ascending by date; rows without a date sink to the bottom in original order
+    out.sort(function (a, b) {
+      if (!a.date && !b.date) return 0;
+      if (!a.date) return 1;
+      if (!b.date) return -1;
+      return a.date < b.date ? -1 : (a.date > b.date ? 1 : 0);
+    });
+    return out;
+  }
+
+  // ----- Stats -----
+  function computeStats(rows) {
+    var total = rows.length;
+    var inbound = 0, outbound = 0, internal = 0;
+    var respDays = [];
+    var unanswered = 0;
+    rows.forEach(function (r) {
+      if (r.direction === 'inbound') inbound++;
+      else if (r.direction === 'outbound') outbound++;
+      else if (r.direction === 'internal') internal++;
+      var n = parseFloat(r.daysToResponse);
+      if (!isNaN(n) && r.response === 'yes') respDays.push(n);
+      if (r.direction === 'outbound' && r.response === 'no') unanswered++;
+    });
+    var avg = null;
+    if (respDays.length > 0) {
+      var sum = 0;
+      respDays.forEach(function (n) { sum += n; });
+      avg = sum / respDays.length;
+    }
+    return {
+      total: total,
+      inbound: inbound,
+      outbound: outbound,
+      internal: internal,
+      avgDays: avg,
+      avgDaysSampleSize: respDays.length,
+      unanswered: unanswered
+    };
+  }
+
+  // ----- Build model -----
+  function buildModel() {
+    var roleType = 'individual';
+    var roleRadios = document.querySelectorAll('input[name="sender-role-type"]');
+    roleRadios.forEach(function (r) { if (r.checked) roleType = r.value; });
+
+    var entityName = ($('entity-name').value || '').trim();
+    var senderName = ($('sender-name').value || '').trim();
+
+    var roleLine;
+    if (roleType === 'entity' && entityName) {
+      roleLine = senderName + ', principal of ' + entityName;
+    } else if (roleType === 'entity') {
+      roleLine = senderName + ', principal of [Entity]';
+    } else {
+      roleLine = senderName + ', individual';
+    }
+
+    var startDate = parseDateInput($('period-start').value);
+    var endDate = parseDateInput($('period-end').value);
+
+    return {
+      today: todayLong(),
+      sender: {
+        name: senderName,
+        roleType: roleType,
+        entityName: entityName,
+        roleLine: roleLine
+      },
+      matter: ($('matter-caption').value || '').trim(),
+      attorney: {
+        name: ($('attorney-name').value || '').trim(),
+        firm: ($('attorney-firm').value || '').trim()
+      },
+      period: {
+        start: startDate,
+        end: endDate,
+        startStr: startDate ? formatDateLong(startDate) : '',
+        endStr: endDate ? formatDateLong(endDate) : ''
+      },
+      rows: readRows(),
+      toggles: {
+        total: $('stat-total').checked,
+        direction: $('stat-direction').checked,
+        avgDays: $('stat-avg-days').checked,
+        unanswered: $('stat-unanswered').checked
+      }
+    };
+  }
+
+  // ----- Render HTML preview -----
+  function renderPreviewHTML(m) {
+    var html = '';
+
+    // Header
+    html += '<h3 class="log-title">COMMUNICATIONS LOG</h3>';
+    html += '<div class="header-meta">';
+    if (m.matter) html += '<div><strong>Matter:</strong> ' + escapeHTML(m.matter) + '</div>';
+    html += '<div><strong>Sender:</strong> ' + escapeHTML(m.sender.roleLine || '[sender]') + '</div>';
+    html += '<div><strong>Attorney:</strong> ' + escapeHTML(m.attorney.name || '[attorney name]');
+    if (m.attorney.firm) html += ' (' + escapeHTML(m.attorney.firm) + ')';
+    html += '</div>';
+    var periodStr = '';
+    if (m.period.startStr && m.period.endStr) periodStr = m.period.startStr + ' through ' + m.period.endStr;
+    else if (m.period.startStr) periodStr = 'beginning ' + m.period.startStr;
+    else if (m.period.endStr) periodStr = 'through ' + m.period.endStr;
+    if (periodStr) html += '<div><strong>Log period:</strong> ' + escapeHTML(periodStr) + '</div>';
+    html += '<div><strong>Date generated:</strong> ' + escapeHTML(m.today) + '</div>';
+    html += '</div>';
+
+    // Stats
+    var stats = computeStats(m.rows);
+    var anyToggle = m.toggles.total || m.toggles.direction || m.toggles.avgDays || m.toggles.unanswered;
+    if (anyToggle) {
+      html += '<div class="stats-block">';
+      html += '<h4>Summary Statistics</h4>';
+      if (m.toggles.total) {
+        html += '<div class="stat-line"><strong>Total communications:</strong> ' + stats.total + '</div>';
+      }
+      if (m.toggles.direction) {
+        html += '<div class="stat-line"><strong>Inbound (from attorney):</strong> ' + stats.inbound + '</div>';
+        html += '<div class="stat-line"><strong>Outbound (to attorney):</strong> ' + stats.outbound + '</div>';
+        if (stats.internal > 0) {
+          html += '<div class="stat-line"><strong>Internal (copy / CC only):</strong> ' + stats.internal + '</div>';
+        }
+      }
+      if (m.toggles.avgDays) {
+        if (stats.avgDays === null) {
+          html += '<div class="stat-line"><strong>Average days to response:</strong> not applicable (no responses recorded with day-count data)</div>';
+        } else {
+          var avgStr = (Math.round(stats.avgDays * 10) / 10).toFixed(1);
+          html += '<div class="stat-line"><strong>Average days to response:</strong> ' + avgStr + ' (n = ' + stats.avgDaysSampleSize + ')</div>';
+        }
+      }
+      if (m.toggles.unanswered) {
+        html += '<div class="stat-line"><strong>Unanswered outbound communications:</strong> ' + stats.unanswered + '</div>';
+      }
+      html += '</div>';
+    }
+
+    // Table
+    if (m.rows.length === 0) {
+      html += '<div class="empty-state">No communications recorded yet. Use the form on the left to add rows.</div>';
+    } else {
+      html += '<table class="log-table"><thead><tr>';
+      html += '<th>#</th><th>Date</th><th>Direction</th><th>Channel</th><th>Subject / Topic</th><th>Description</th><th>Response</th><th>Days</th>';
+      html += '</tr></thead><tbody>';
+      m.rows.forEach(function (r, i) {
+        html += '<tr>';
+        html += '<td class="col-num">' + (i + 1) + '</td>';
+        html += '<td class="col-date">' + escapeHTML(formatDateShort(r.date)) + '</td>';
+        html += '<td class="col-dir">' + escapeHTML(dirLabel(r.direction)) + '</td>';
+        html += '<td class="col-chan">' + escapeHTML(chanLabel(r.channel)) + '</td>';
+        html += '<td>' + escapeHTML(r.subject || '') + '</td>';
+        html += '<td>' + escapeHTML(r.description || '') + '</td>';
+        html += '<td class="col-resp">' + escapeHTML(respLabel(r.response)) + '</td>';
+        html += '<td class="col-days">' + escapeHTML(r.daysToResponse || '') + '</td>';
+        html += '</tr>';
+      });
+      html += '</tbody></table>';
+    }
+
+    // Footer
+    html += '<div class="footer-line">This log was generated by bankruptcymalpractice.org/communication-log-builder.html</div>';
+
+    return html;
+  }
+
+  // ----- Render plain-text version (for clipboard) -----
+  function renderPreviewText(m) {
+    var lines = [];
+    lines.push('COMMUNICATIONS LOG');
+    lines.push('');
+    if (m.matter) lines.push('Matter:          ' + m.matter);
+    lines.push('Sender:          ' + (m.sender.roleLine || '[sender]'));
+    var attLine = m.attorney.name || '[attorney name]';
+    if (m.attorney.firm) attLine += ' (' + m.attorney.firm + ')';
+    lines.push('Attorney:        ' + attLine);
+    var periodStr = '';
+    if (m.period.startStr && m.period.endStr) periodStr = m.period.startStr + ' through ' + m.period.endStr;
+    else if (m.period.startStr) periodStr = 'beginning ' + m.period.startStr;
+    else if (m.period.endStr) periodStr = 'through ' + m.period.endStr;
+    if (periodStr) lines.push('Log period:      ' + periodStr);
+    lines.push('Date generated:  ' + m.today);
+    lines.push('');
+
+    var stats = computeStats(m.rows);
+    var anyToggle = m.toggles.total || m.toggles.direction || m.toggles.avgDays || m.toggles.unanswered;
+    if (anyToggle) {
+      lines.push('SUMMARY STATISTICS');
+      lines.push('------------------');
+      if (m.toggles.total) lines.push('Total communications:          ' + stats.total);
+      if (m.toggles.direction) {
+        lines.push('Inbound (from attorney):       ' + stats.inbound);
+        lines.push('Outbound (to attorney):        ' + stats.outbound);
+        if (stats.internal > 0) lines.push('Internal (copy / CC only):     ' + stats.internal);
+      }
+      if (m.toggles.avgDays) {
+        if (stats.avgDays === null) {
+          lines.push('Average days to response:      n/a');
+        } else {
+          var avgStr = (Math.round(stats.avgDays * 10) / 10).toFixed(1);
+          lines.push('Average days to response:      ' + avgStr + ' (n = ' + stats.avgDaysSampleSize + ')');
+        }
+      }
+      if (m.toggles.unanswered) lines.push('Unanswered outbound:           ' + stats.unanswered);
+      lines.push('');
+    }
+
+    if (m.rows.length === 0) {
+      lines.push('(No communications recorded.)');
+    } else {
+      lines.push('LOG');
+      lines.push('---');
+      m.rows.forEach(function (r, i) {
+        lines.push('');
+        lines.push('#' + (i + 1) + '  ' + (formatDateShort(r.date) || '[no date]'));
+        lines.push('    Direction:   ' + (dirLabel(r.direction) || '—'));
+        lines.push('    Channel:     ' + (chanLabel(r.channel) || '—'));
+        if (r.subject) lines.push('    Subject:     ' + r.subject);
+        if (r.description) lines.push('    Description: ' + r.description);
+        lines.push('    Response:    ' + (respLabel(r.response) || '—'));
+        if (r.daysToResponse) lines.push('    Days:        ' + r.daysToResponse);
+      });
+      lines.push('');
+    }
+
+    lines.push('');
+    lines.push('This log was generated by bankruptcymalpractice.org/communication-log-builder.html');
+
+    return lines.join('\n');
+  }
+
+  // ----- Validation -----
+  function validateRequired() {
+    var required = ['sender-name', 'attorney-name', 'attorney-firm', 'period-start', 'period-end'];
+    var allOK = true;
+    required.forEach(function (id) {
+      var el = $(id);
+      if (!el) return;
+      var val = (el.value || '').trim();
+      if (!val) {
+        el.classList.add('invalid');
+        allOK = false;
+      } else {
+        el.classList.remove('invalid');
+      }
+    });
+    // Conditional: entity-name when corporate principal selected
+    var roleType = 'individual';
+    var roleRadios = document.querySelectorAll('input[name="sender-role-type"]');
+    roleRadios.forEach(function (r) { if (r.checked) roleType = r.value; });
+    var ent = $('entity-name');
+    if (roleType === 'entity') {
+      if (!(ent.value || '').trim()) { ent.classList.add('invalid'); allOK = false; }
+      else ent.classList.remove('invalid');
+    } else {
+      ent.classList.remove('invalid');
+    }
+    return allOK;
+  }
+
+  function update() {
+    var m = buildModel();
+    $('preview').innerHTML = renderPreviewHTML(m);
+  }
+
+  // ----- Defaults & reset -----
+  function setDefaults() {
+    // Default period: today minus 90 days through today
+    var end = new Date();
+    var start = new Date();
+    start.setDate(start.getDate() - 90);
+    $('period-end').value = end.toISOString().slice(0, 10);
+    $('period-start').value = start.toISOString().slice(0, 10);
+  }
+
+  function clearRows() {
+    var c = $('comm-rows-container');
+    while (c.firstChild) c.removeChild(c.firstChild);
+    rowCounter = 0;
+  }
+
+  function resetForm() {
+    var ids = ['sender-name', 'entity-name', 'matter-caption', 'attorney-name', 'attorney-firm'];
+    ids.forEach(function (id) { var el = $(id); if (el) el.value = ''; });
+    var roleRadios = document.querySelectorAll('input[name="sender-role-type"]');
+    roleRadios.forEach(function (r) { r.checked = (r.value === 'individual'); });
+    syncEntityFieldVisibility();
+    ['stat-total', 'stat-direction', 'stat-avg-days', 'stat-unanswered'].forEach(function (id) {
+      var el = $(id); if (el) el.checked = true;
+    });
+    clearRows();
+    addCommRow(); // start with one empty row
+    setDefaults();
+    update();
+    if (typeof gtag === 'function') {
+      gtag('event', 'comm_log_reset', { tool: 'communication_log_builder', site: location.hostname });
+    }
+  }
+  window.resetForm = resetForm;
+
+  // ----- Copy to clipboard -----
+  function copyLog() {
+    var m = buildModel();
+    var text = renderPreviewText(m);
+    var done = function () {
+      var s = $('copy-status');
+      s.classList.add('show');
+      setTimeout(function () { s.classList.remove('show'); }, 2000);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done, function () {
+        legacyCopy(text); done();
+      });
+    } else {
+      legacyCopy(text); done();
+    }
+    if (typeof gtag === 'function') {
+      gtag('event', 'comm_log_copied', { tool: 'communication_log_builder', rows: m.rows.length, site: location.hostname });
+    }
+  }
+  window.copyLog = copyLog;
+
+  function legacyCopy(text) {
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.left = '-9999px';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); } catch (e) { /* ignore */ }
+    document.body.removeChild(ta);
+  }
+
+  // ----- Conditional entity-name field -----
+  function syncEntityFieldVisibility() {
+    var roleType = 'individual';
+    var roleRadios = document.querySelectorAll('input[name="sender-role-type"]');
+    roleRadios.forEach(function (r) { if (r.checked) roleType = r.value; });
+    var f = $('entity-name-field');
+    if (f) f.style.display = (roleType === 'entity') ? '' : 'none';
+  }
+
+  // ----- Init -----
+  function init() {
+    setDefaults();
+
+    // Static fields
+    var staticFields = ['sender-name', 'entity-name', 'matter-caption', 'attorney-name', 'attorney-firm', 'period-start', 'period-end',
+                        'stat-total', 'stat-direction', 'stat-avg-days', 'stat-unanswered'];
+    staticFields.forEach(function (id) {
+      var el = $(id);
+      if (!el) return;
+      var ev = (el.tagName === 'SELECT' || el.type === 'date' || el.type === 'checkbox') ? 'change' : 'input';
+      el.addEventListener(ev, function () {
+        validateRequired();
+        update();
+      });
+    });
+
+    // Role radios
+    var roleRadios = document.querySelectorAll('input[name="sender-role-type"]');
+    roleRadios.forEach(function (r) {
+      r.addEventListener('change', function () {
+        syncEntityFieldVisibility();
+        validateRequired();
+        update();
+      });
+    });
+
+    syncEntityFieldVisibility();
+
+    // Start with one empty row so the user has somewhere to type
+    addCommRow();
+
+    update();
+
+    if (typeof gtag === 'function') {
+      gtag('event', 'comm_log_loaded', { tool: 'communication_log_builder', site: location.hostname });
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+</body>
+</html>
