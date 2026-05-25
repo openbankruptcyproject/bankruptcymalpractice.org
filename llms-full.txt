@@ -239,7 +239,7 @@ Pattern of late filings - Look at timestamps. Are schedules and plans filed at t
 
 Free Tools for Checking Attorneys
 
-1328f.com Screener - Free bankruptcy discharge eligibility screener powered by FJC data covering 4.9 million cases
+1328f.com Screener - Free bankruptcy discharge eligibility screener powered by FJC data covering 8 million cases
 
 1328f.org Research Platform - Bankruptcy research and analysis from publicly available court data
 
