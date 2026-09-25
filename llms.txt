@@ -1,15 +1,15 @@
 # Was Your Bankruptcy Attorney Negligent? Free Malpractice Guide (2026)
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Was your bankruptcy attorney negligent? Learn the signs of bankruptcy malpractice, how to file a complaint, and your legal options. Updated ...
+> Was your bankruptcy attorney negligent? Learn the signs of bankruptcy malpractice, how to file a complaint, and your legal options.
 
 ## About
 bankruptcymalpractice.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
 - Filing a Bar Complaint Against Your Bankruptcy Attorney - Malpractice: https://bankruptcymalpractice.org/bar-complaints.html
-- How to Check Your Bankruptcy Attorney's Track Record Using Free Public Data [2026] - Malpractice: https://bankruptcymalpractice.org/check-your-attorney.html
-- Suing Your Bankruptcy Attorney for Malpractice - What Damages Can You Recover?: https://bankruptcymalpractice.org/damages.html
+- Check Your Bankruptcy Attorney [2026]: PACER, State Bar, KRPC 1.1, and Free Public Discipline Data: https://bankruptcymalpractice.org/check-your-attorney.html
+- Suing Bankruptcy Attorney for Malpractice [2026]: Recoverable Damages Under State Negligence Law: https://bankruptcymalpractice.org/damages.html
 - Bankruptcy Attorney Malpractice - Central District of California: https://bankruptcymalpractice.org/districts/central-district-of-california.html
 - Bankruptcy Attorney Malpractice - Eastern District of New York: https://bankruptcymalpractice.org/districts/eastern-district-of-new-york.html
 - Bankruptcy Attorney Malpractice by District: https://bankruptcymalpractice.org/districts/
@@ -22,15 +22,99 @@ bankruptcymalpractice.org is part of the Open Bankruptcy Project (openbankruptcy
 - Bankruptcy Attorney Malpractice - Western District of Missouri: https://bankruptcymalpractice.org/districts/western-district-of-missouri.html
 - Bankruptcy Attorney Malpractice - Western District of Tennessee: https://bankruptcymalpractice.org/districts/western-district-of-tennessee.html
 - Fee Disgorgement in Bankruptcy - Section 329 - Malpractice: https://bankruptcymalpractice.org/fee-disgorgement.html
-- Bankruptcy Attorney Fee Disputes - Section 329 and Rule 2017 - Malpractice: https://bankruptcymalpractice.org/fee-disputes.html
+- Bankruptcy Attorney Fee Disputes [2026]: 11 USC 329 Court Review and Rule 2017 Excessive-Fee Refund: https://bankruptcymalpractice.org/fee-disputes.html
 - Finding a Bankruptcy Malpractice Attorney: https://bankruptcymalpractice.org/finding-help.html
-- Attorney Recommended the Wrong Chapter - Your Options - Malpractice: https://bankruptcymalpractice.org/inadequate-advice.html
+- Wrong Chapter Recommendation Malpractice [2026]: KRPC 1.1 Competence and 1.4 Communication Standards: https://bankruptcymalpractice.org/inadequate-advice.html
 - Was Your Bankruptcy Attorney Negligent? Free Malpractice Guide (2026): https://bankruptcymalpractice.org/
-- Attorney Missed a Deadline and Your Bankruptcy Was Dismissed - Malpractice: https://bankruptcymalpractice.org/missed-deadlines.html
-- How to Protect Yourself When Hiring a Bankruptcy Attorney - Malpractice: https://bankruptcymalpractice.org/protect-yourself.html
-- Warning Signs of Bankruptcy Attorney Malpractice: https://bankruptcymalpractice.org/signs.html
-- 7 Warning Signs Your Bankruptcy Lawyer Isn't Fighting for You [2026] - Malpractice: https://bankruptcymalpractice.org/warning-signs.html
+- Bankruptcy Attorney Missed Deadline [2026]: KRPC 1.3 Diligence Violations and Case-Dismissal Damages: https://bankruptcymalpractice.org/missed-deadlines.html
+- Protect Yourself from Bankruptcy Malpractice [2026]: KRPC 1.4 Communication and 1.5(b) Written Fee Agreement: https://bankruptcymalpractice.org/protect-yourself.html
+- Warning Signs of Bankruptcy Attorney Malpractice [2026]: KRPC Violations and High-Volume Mill Patterns: https://bankruptcymalpractice.org/signs.html
+- 7 Warning Signs Your Bankruptcy Lawyer Is Not Fighting for You [2026]: KRPC 1.1, 1.3, 1.4 Red Flags: https://bankruptcymalpractice.org/warning-signs.html
 - Privacy Policy: https://bankruptcymalpractice.org/privacy.html
+- About bankruptcymalpractice.org: https://bankruptcymalpractice.org/about.html
+- Bar Complaint Generator - Free Template Tool for State Disciplinary Filings: https://bankruptcymalpractice.org/bar-complaint-generator.html
+- How to File a BBB Complaint Against Your Bankruptcy Attorney | OBP: https://bankruptcymalpractice.org/bbb-complaint.html
+- BBB Complaint Generator for Attorney Misconduct | Free Template Tool: https://bankruptcymalpractice.org/bbb-complaint-generator.html
+- Client-File Demand Letter Generator | Rule 1.16(d) Template Tool: https://bankruptcymalpractice.org/demand-letter-generator.html
+- Why Won't My Bankruptcy Lawyer Give Me My Client File? | Model Rule 1.16(d): https://bankruptcymalpractice.org/client-file.html
+- Preservation Letter Generator | Litigation Hold Template | OBP: https://bankruptcymalpractice.org/preservation-letter-generator.html
+- Spoliation Duty in Attorney-Client Disputes | Litigation Hold Letters: https://bankruptcymalpractice.org/spoliation-duty.html
+- Alabama Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/alabama.html
+- Alaska Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/alaska.html
+- Arizona Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/arizona.html
+- Arkansas Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/arkansas.html
+- California Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/california.html
+- Colorado Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/colorado.html
+- Connecticut Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/connecticut.html
+- Delaware Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/delaware.html
+- District of Columbia Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/district-of-columbia.html
+- Florida Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/florida.html
+- Georgia Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/georgia.html
+- Hawaii Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/hawaii.html
+- Idaho Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/idaho.html
+- Illinois Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/illinois.html
+- Bankruptcy Malpractice by State by State: https://bankruptcymalpractice.org/states/
+- Indiana Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/indiana.html
+- Iowa Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/iowa.html
+- Kansas Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/kansas.html
+- Kentucky Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/kentucky.html
+- Louisiana Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/louisiana.html
+- Maine Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/maine.html
+- Maryland Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/maryland.html
+- Massachusetts Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/massachusetts.html
+- Michigan Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/michigan.html
+- Minnesota Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/minnesota.html
+- Mississippi Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/mississippi.html
+- Missouri Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/missouri.html
+- Montana Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/montana.html
+- Nebraska Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/nebraska.html
+- Nevada Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/nevada.html
+- New Hampshire Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/new-hampshire.html
+- New Jersey Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/new-jersey.html
+- New Mexico Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/new-mexico.html
+- New York Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/new-york.html
+- North Carolina Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/north-carolina.html
+- North Dakota Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/north-dakota.html
+- Ohio Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/ohio.html
+- Oklahoma Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/oklahoma.html
+- Oregon Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/oregon.html
+- Pennsylvania Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/pennsylvania.html
+- Rhode Island Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/rhode-island.html
+- South Carolina Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/south-carolina.html
+- South Dakota Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/south-dakota.html
+- Tennessee Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/tennessee.html
+- Texas Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/texas.html
+- Utah Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/utah.html
+- Vermont Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/vermont.html
+- Virginia Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/virginia.html
+- Washington Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/washington.html
+- West Virginia Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/west-virginia.html
+- Wisconsin Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/wisconsin.html
+- Wyoming Bankruptcy Malpractice [2026]: Bar Rules, SOL, and Fee Disgorgement: https://bankruptcymalpractice.org/states/wyoming.html
+- Binary-Forcing Notice with Conditional Variants | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/binary-forcing-notice.html
+- Reserved-Instrument Discipline (Variants A through E) | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/reserved-instrument-discipline.html
+- Zugzwang Net Architecture | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/zugzwang-net-architecture.html
+- Fraud-by-Accumulation Framework | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/fraud-by-accumulation-framework.html
+- Vague Adverse Characterization Pattern Catalog | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/vague-adverse-characterization-pattern.html
+- Documentary-Anchoring Discipline | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/documentary-anchoring-discipline.html
+- Channel-Independent Escalation Discipline | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/channel-independent-escalation.html
+- UPL Guardrail with Counsel-Gated Federal Channel Routing | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/upl-guardrail-counsel-gated-routing.html
+- Counsel-Readability Standard | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/counsel-readability-standard.html
+- Exemplar-Case-for-AI-in-Law Positioning | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/exemplar-case-for-ai-in-law.html
+- Five-Tier Graduated Punishment Ladder | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/five-tier-graduated-punishment-ladder.html
+- Soft Documentary Trap | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/soft-documentary-trap.html
+- Category-Substitution Refusal Pattern Detection | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/category-substitution-refusal-pattern.html
+- Disclosed-Facts + Opinion-from-the-Record Structure | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/disclosed-facts-opinion-from-record.html
+- CFO-Incentive Cross-Case Outreach Framework | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/cfo-incentive-cross-case-outreach.html
+- Adversary Public-Statement Rebuke Structure | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/adversary-public-statement-rebuke.html
+- Hold Posture as Information Warfare | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/hold-posture-as-information-warfare.html
+- Attribution Publication Sequence (Methodology then RECAP then Bar) | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/attribution-publication-sequence.html
+- Originating-Attorney Attribution Methodology | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/originating-attorney-attribution.html
+- Spoliation Is Historical Not Cured | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/spoliation-historical-not-cured.html
+- Forensic Complainant Filling Federal Vacuum | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/forensic-complainant-filling-vacuum.html
+- Surveillance-Legibility Preservation Discipline | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/surveillance-legibility-preservation.html
+- Claude-Parallel Labor Architecture | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/claude-parallel-labor-architecture.html
+- No-Facade Architecture Principle | Bankruptcy Malpractice: https://bankruptcymalpractice.org/methodology/no-facade-architecture.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
