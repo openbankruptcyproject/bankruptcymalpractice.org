@@ -2181,7 +2181,7 @@ For more on Chapter 13 plans, see chapter13plan.org. For Chapter 7 basics, see w
 
 Scenario 3: Failing to Consider Chapter 11 Subchapter V
 
-Subchapter V of Chapter 11, enacted as part of the Small Business Reorganization Act of 2019 and effective February 2020, provides a streamlined reorganization process for small business debtors with aggregate noncontingent liquidated debts not exceeding $7.5 million (as adjusted). It is significantly faster and less expensive than traditional Chapter 11.
+Subchapter V of Chapter 11, enacted as part of the Small Business Reorganization Act of 2019 and effective February 2020, provides a streamlined reorganization process for small business debtors with aggregate noncontingent liquidated debts not exceeding $3,424,000 (as adjusted April 1, 2025). It is significantly faster and less expensive than traditional Chapter 11.
 
 Key advantages of Sub V
 
